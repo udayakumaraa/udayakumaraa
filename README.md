@@ -168,5 +168,5 @@ Here are some ideas to get you started:
 
 <!-- Footer -->
 <div align="center">
-<!--   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:06786E,50:5EE0BE,100:0786AD" /> -->
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:06786E,50:5EE0BE,100:0786AD" /> 
 </div>
