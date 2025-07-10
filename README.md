@@ -1,27 +1,13 @@
-<!--
-**udayakumaraa/udayakumaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:06786E,50:5EE0BE,100:0786AD&text=Welcome%20to%20My%20GitHub%20World!%20🌍&fontSize=40&fontAlign=50&fontColor=ffffff" style="margin-bottom:15px; />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:06786E,50:5EE0BE,100:0786AD&text=Welcome%20to%20My%20GitHub%20World!%20🌍&fontSize=40&fontAlign=50&fontColor=ffffff"  />
 </div>
 
-<h1 align="center">Hi there 👋, I'm Udaya Kumara</h1>
-<h3 align="center">🎓 University Lecturer | 🖥️ Tech Enthusiast | 🌱 Lifelong Learner | 🇱🇰 From Sri Lanka</h3>
+# <h1 align="center"> Hi there 👋, I'm Udaya Kumara</h1>
+### <h3 align="center">🎓 University Lecturer | 🖥️ Tech Enthusiast | 🌱 Lifelong Learner | 🇱🇰 From Sri Lanka</h3>
 
+<!-- Add extra spacing to separate header from content -->
 <div style="margin-bottom:40px;"></div>
-
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -31,41 +17,41 @@ Here are some ideas to get you started:
 
 <div style="margin-bottom:15px;"></div>
 
-<p align="center">
-  <div align="center">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=udayakumaraa.udayakumaraa&"  />
-</div> 
-</p>
+</div>
 
 <div style="margin-bottom:15px;"></div>
 
----
 
-### 🧑‍🏫 About Me
+<!-- Left aligned sections with bottom padding -->
+<div style="text-align: left; margin-bottom: 40px;  margin-top: 40px; padding-bottom: 20px; border-bottom: 1px solid #eee;">
+  
+## 🧑‍🏫 About Me
 
 - 🔭 Currently lecturing at **Ocean University of Sri Lanka**  
 - 💬 Passionate about **web development**, **design**, and **open-source**  
-- 📽️ I also love to **Help** students who has eager passion to learn new things
+- 📽️ I also love to **help students** who have eager passion to learn new things  
 - 🌱 Actively *learning new trends in tech and teaching methodologies*  
 - ⚡ Fun fact: I believe **Good Education** can change the world 🌍
-  
-<div style="margin-bottom:15px;></div>
 
----
+</div>
 
-<div style="margin-bottom:15px;"> </div>
 
-### 📘 My Teaching & Projects
 
-- 💡 **Web Development Fundamentals**
-- 🧰 **Full-Stack with PHP & MySQL**
-- 🎨 **UI/UX Principles with Figma & Adobe Tools**
-- 🐧 **Linux & Open Source Basics**
+<div style="text-align: left; margin-bottom: 40px; padding-bottom: 20px; border-bottom: 1px solid #eee;">
+
+## 📘 My Teaching & Projects
+
+- 💡 **Web Development Fundamentals**  
+- 🧰 **Full-Stack with PHP & MySQL**  
+- 🎨 **UI/UX Principles with Figma & Adobe Tools**  
+- 🐧 **Linux & Open Source Basics**  
 - 🌐 **Internet of Things (IoT)** _(Upcoming Content)_
 
+</div>
+
 ---
-
-
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=udayakumaraa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -136,19 +122,20 @@ Here are some ideas to get you started:
 <div style="margin-bottom:15px;"></div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayakumaraa&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udayakumaraa&show_icons=true&locale=en&layout=compact" alt="udayakumaraa" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=udayakumaraa&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
+  <&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udayakumaraa&show_icons=true&locale=en" alt="udayakumaraa" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayakumaraa&theme=algolia" alt="GitHub Streak" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayakumaraa&" alt="udayakumaraa" /></p>
 </p>
 
 <div style="margin-bottom:15px;"></div>
 
+---
 
 ### 💬 Quote of the Day
 
@@ -156,15 +143,10 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&multiline=true&width=1400&height=200&lines=%E2%80%9CEducation+is+the+most+powerful+weapon+which+you+can+use+to+change+the+world.%E2%80%9D;%E2%80%94+Nelson+Mandela)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&multiline=true&width=1400&height=80&lines=%E2%80%9CEducation+is+the+most+powerful+weapon+which+you+can+use+to+change+the+world.%E2%80%9D;%E2%80%94+Nelson+Mandela)](https://git.io/typing-svg)
 
 
 </p>
-
-
-<div style="margin-bottom:15px;"></div>
-
----
 
 <!-- Footer -->
 <div align="center">
