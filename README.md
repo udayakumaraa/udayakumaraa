@@ -156,8 +156,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&multiline=true&width=1400&height=200&lines=%E2%80%9CEducation+is+the+most+powerful+weapon+which+you+can+use+to+change+the+world.%E2%80%9D;%E2%80%94+Nelson+Mandela)](https://git.io/typing-svg)
- -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&multiline=true&width=1400&height=200&lines=%E2%80%9CEducation+is+the+most+powerful+weapon+which+you+can+use+to+change+the+world.%E2%80%9D;%E2%80%94+Nelson+Mandela)](https://git.io/typing-svg)
+
 
 </p>
 
